@@ -10,7 +10,7 @@ class student:
 a=student()
 b=student()
 c=student()
-a.name="chandana"
+a.name="vijay"
 a.college="indian acadamy degree college"
 
 b.name="chandu"
